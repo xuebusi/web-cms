@@ -1,4 +1,4 @@
-package com.xuebusi.cms.controller;
+package com.xuebusi.cms.page;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
